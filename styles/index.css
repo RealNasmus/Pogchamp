@@ -1,0 +1,21 @@
+body {
+          padding: 25px;
+          background-image: url(../Images/Background.jpg);
+          color: rgb(255, 255, 255);
+          font-size: 25px;
+        }
+        
+        .dark-mode {
+          background-color: black;
+          color: white;
+        }
+
+
+header {
+    text-align: center;
+    font-style: italic;
+}
+
+body {
+    text-align: center;
+}
