@@ -5,8 +5,8 @@ body {
           font-size: 25px;
         }
         
-        .dark-mode {
-          background-color: black;
+        .dank-mode {
+          background-image: url(../Images/DANKmode.gif);
           color: white;
         }
 
@@ -14,8 +14,10 @@ body {
 header {
     text-align: center;
     font-style: italic;
+    font-weight: lighter;
 }
 
 body {
     text-align: center;
+    font-weight: 900;
 }
